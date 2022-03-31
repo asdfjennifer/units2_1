@@ -1,0 +1,56 @@
+h1 {
+    font-family: Helvetica;
+}
+
+h1, p {
+    font-family: Helvetica;
+    font-weight: 200;
+}
+
+section {
+    font-size: 1rem;
+    border: 0.2rem solid #000;
+    font-family: Helvetica;
+    line-height: 1.5em;
+}
+
+ul li {
+    font-size: 0.8em;
+    list-style: none;
+    line-height: 1.5em;
+}
+
+#dogs:before {
+    content: "🐶";
+    padding-right: 2px;
+}
+
+#cats:before {
+    content: "🐱";
+    padding-right: 2px;
+}
+
+#parrots:before {
+    content: "🦜";
+    padding-right: 2px;
+}
+
+#snakes:before {
+    content: "🐍";
+    padding-right: 2px;
+}
+
+#lizzards:before {
+    content: "🦎";
+    padding-right: 2px;
+}
+
+
+li {
+    line-height: 1.5em;
+}
+
+ul {
+    padding-inline-start: 1.2em;
+}
+
